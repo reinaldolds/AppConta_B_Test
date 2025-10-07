@@ -20,3 +20,8 @@ Sistema bancário acadêmico em Java para demonstração de regras de negócio e
   - Java 17 • Maven • JUnit 5
 + Foco:
   -Regras de negócio + Testes unitários
+
+![Descrição da Imagem](https://github.com/reinaldolds/AppConta_B_Test/blob/main/img/test1app.png)
+
+![Descrição da Imagem](https://github.com/reinaldolds/AppConta_B_Test/blob/main/img/test2app.png)
+)
